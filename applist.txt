@@ -1,0 +1,52 @@
+Adobe Creative Cloud
+Adobe Dreamweaver 2021
+Adobe Illustrator 2023
+Adobe Photoshop 2023
+Android Studio
+Araxis Merge
+ASSET
+ATEUCS (文鼎)
+BASE24
+Blue Prism
+BoshiamyTIP (嘸蝦米輸入法 J 標準版 (x64))
+CMS Supervisor R19
+Conclusion Runtime Environment 4.5.1
+Control-M
+Dimensions 14.5
+Dr.eye 譯典通 X
+DSCFTP2
+EZ PCSC Reader
+ezAcquire Scan Data Service
+FAXCOM Suite for Windows Client
+FileZilla FTP Client
+HiCOS PKI Smart Card
+MgtClient
+Microsoft Access 2016
+Microsoft Project 標準版 2016
+Microsoft SQL Server
+Microsoft Visio 標準版 2016
+Microsoft Visual Studio 2010
+Microsoft WSE 2.0
+MR-Win6530
+PaperStream IP
+Quest Software
+Quest Software Toad Data Modeler
+Quest Software Toad for Data Analysts 2.6
+R-software
+RSA SecurID Software Token
+RStudio
+ScannerCentralAdminAgent
+Spark
+Tableau 2020.3
+Tableau Reader 2021.2
+Toad
+Toad for Oracle 10.5
+Toad for Oracle 14.1
+UL Test Tools 5.6.0
+UL Test Tools 5.6.1
+UltraEdit10.20
+VIP Access Client
+VMware Horizon View Client
+WebStorm 2021.1.2
+WorkFlow ERP GP
+跨平台網頁元件
